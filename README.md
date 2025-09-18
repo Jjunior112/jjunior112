@@ -1,6 +1,10 @@
 ## 👋 Olá! Bem vindo ao meu GitHub!!!
 
-Sou Desenvolvedor Backend, atualmente cursando Engenharia de Software. Apaixonado pela criação de soluções digitais inovadoras e funcionais, tenho experiência com Java e Spring Boot, Node.js e Next.js . Atuo na construção e integração de APIs RESTful, utilizando boas práticas com Express.js e JPA/Hibernate. Possuo domínio em bancos de dados relacionais (PostgreSQL e MySQL) e não relacionais (MongoDB), autenticação com JWT, testes com Jest e JUnit, Mockito, versionamento com Git, conteinerização com Docker e continuous integration com GitHub Actions. Valorizo código limpo, arquitetura escalável e foco na manutenção eficiente de sistemas robustos, testáveis e duradouros.
+<p align=justify>Sou Desenvolvedor Backend, atualmente cursando Engenharia de Software. Apaixonado pela criação de soluções digitais inovadoras e funcionais, tenho experiência com Java e Spring Boot, Node.js e Next.js . Atuo na construção e integração de APIs RESTful, utilizando boas práticas com Express.js e JPA/Hibernate. 
+</p>
+<p align= justify>Possuo domínio em bancos de dados relacionais (PostgreSQL e MySQL) e não relacionais (MongoDB), autenticação com JWT, testes com Jest e JUnit, Mockito, versionamento com Git, conteinerização com Docker e continuous integration com GitHub Actions. Valorizo código limpo, arquitetura escalável e foco na manutenção eficiente de sistemas robustos, testáveis e duradouros.</p>
+<br>
+<br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunior112&theme=transparent&show_icons=true)
 
