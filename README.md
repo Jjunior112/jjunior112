@@ -11,8 +11,6 @@ Possuo expertise em <strong>Python</strong> para análise e automação de dados
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjunior112&show_icons=true&theme=transparent&title_color=56D364&text_color=56D364&icon_color=40C463&border_color=56d364)](https://github.com/jjunior112)
-
 ---
 
 ### 🚀 Tech Stack
