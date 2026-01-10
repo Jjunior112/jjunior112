@@ -42,9 +42,6 @@ Possuo expertise em <strong>Python</strong> para análise e automação de dados
 ### 📫 Redes
 
 <div>
-  <a href="https://jjunior112.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23333?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
   <a href="mailto:juarezgcjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
