@@ -1,7 +1,7 @@
 ## 👋 Olá! Bem-vindo ao meu GitHub!!!
 
 <p align="justify">
-Sou <strong>Analista de Dados</strong>, atualmente cursando Engenharia de Software, com forte base técnica em programação e bancos de dados. Atuo na coleta, tratamento, análise e visualização de dados, transformando informações brutas em insights estratégicos que apoiam a tomada de decisão.
+Sou <strong>Analista de Dados</strong>, formado em Engenharia de Software, com forte base técnica em programação e bancos de dados. Atuo na coleta, tratamento, análise e visualização de dados, transformando informações brutas em insights estratégicos que apoiam a tomada de decisão.
 </p>
 
 <p align="justify">
