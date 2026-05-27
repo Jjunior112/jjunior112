@@ -1,11 +1,11 @@
 ## 👋 Olá! Bem-vindo ao meu GitHub!!!
 
 <p align="justify">
-Sou <strong>Analista de Dados</strong>, formado em Engenharia de Software, com forte base técnica em programação e bancos de dados. Atuo na coleta, tratamento, análise e visualização de dados, transformando informações brutas em insights estratégicos que apoiam a tomada de decisão.
+Sou <strong>Desenvolvedor Backend Java</strong>, formado em Engenharia de Software, com foco no desenvolvimento de aplicações escaláveis, APIs RESTful e arquiteturas baseadas em microsserviços. Tenho experiência na construção de soluções robustas utilizando boas práticas de desenvolvimento, integração entre sistemas e modelagem de dados.
 </p>
 
 <p align="justify">
-Possuo expertise em <strong>Python</strong> para análise e automação de dados, <strong>SQL</strong> (MySQL, PostgreSQL e MongoDB) para extração, transformação e modelagem, além de <strong>Excel</strong> avançado e <strong>Power BI</strong> para construção de dashboards interativos e indicadores de performance. Tenho foco em qualidade dos dados, boas práticas analíticas, organização, clareza visual e geração de valor para o negócio.
+Possuo conhecimento em <strong>Java</strong> e <strong>Spring Boot</strong> para desenvolvimento backend, além de experiência com <strong>Docker</strong> para conteinerização de aplicações, <strong>Linux</strong> para administração e ambiente de desenvolvimento, e serviços da <strong>AWS</strong> para deploy e infraestrutura em nuvem. Também atuo com bancos de dados relacionais e não relacionais, versionamento com Git e conceitos de arquitetura distribuída, sempre buscando performance, organização, escalabilidade e manutenção eficiente do software.
 </p>
 
 <br>
@@ -16,26 +16,39 @@ Possuo expertise em <strong>Python</strong> para análise e automação de dados
 ### 🚀 Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" title="Excel" alt="Logo do Excel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg">  
-  <img align="center" title="Python" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="Power BI" alt="Logo do Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg">
+  <img align="center" title="Java" alt="Logo do Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+  <img align="center" title="Spring Boot" alt="Logo do Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+  <img align="center" title="Docker" alt="Logo do Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  <img align="center" title="Linux" alt="Logo do Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+  <img align="center" title="AWS" alt="Logo da AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
   <img align="center" title="MySQL" alt="Logo do MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
   <img align="center" title="PostgreSQL" alt="Logo do PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
   <img align="center" title="MongoDB" alt="Logo do MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
   <img align="center" title="Git" alt="Logo do Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
 
-### 📊 Áreas de Atuação
+### 💻 Áreas de Atuação
 
-- Análise exploratória de dados (EDA)
-- Modelagem e consultas SQL
-- Limpeza e tratamento de dados
-- Criação de dashboards e KPIs no Power BI
-- Automação de análises com Python
-- Integração de dados de múltiplas fontes
-- Apoio à tomada de decisão baseada em dados
+* Desenvolvimento de APIs RESTful com Java e Spring Boot
+* Arquitetura de microsserviços
+* Conteinerização de aplicações com Docker
+* Administração e utilização de ambientes Linux
+* Deploy e infraestrutura em nuvem com AWS
+* Modelagem e integração com bancos de dados SQL e NoSQL
+* Autenticação e autorização com JWT e Spring Security
+* Versionamento e colaboração com Git e GitHub
+* Integração entre serviços e mensageria
+* Boas práticas de desenvolvimento e arquitetura backend
 
 ---
 
@@ -45,6 +58,7 @@ Possuo expertise em <strong>Python</strong> para análise e automação de dados
   <a href="mailto:juarezgcjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/juarez-junior112/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
